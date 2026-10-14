@@ -1,6 +1,17 @@
-This repository contains all the assignments, projects, and learning materials from the Foundations of Data Science course by Google on Coursera.
-As the first course in the Google Advanced Data Analytics Professional Certificate, this project covers:
-• The core role of data science professionals in modern, data-driven organizations.
-• Implementation of the PACE workflow (Plan, Analyze, Construct, Execute) to structure data projects.
-• Essential concepts regarding organizational impact, effective team communication, and data governance/ethics.
-The goal of this repository is to demonstrate foundational knowledge in advanced analytics and document my project-based learning journey.
+# Google Advanced Data Analytics: Foundations of Data Science
+
+Repository for Course 1: Foundations of Data Science by Google, part of the Google Advanced Data Analytics Professional Certificate on Coursera.
+
+## 📖 Long Description
+This repository contains all the assignments, projects, labs, and learning materials from the **Foundations of Data Science** course by Google on Coursera. 
+
+As the first course in the [Google Advanced Data Analytics Professional Certificate](https://coursera.org), this project establishes a baseline for advanced analytics work. The materials focus on structuring projects, understanding the modern data ecosystem, and learning how data science drives business impact.
+
+### 🎯 Key Learning Objectives
+* **The Role of Data Professionals:** Understanding the responsibilities of data scientists and advanced analysts in modern organizations.
+* **The PACE Workflow:** Implementing the **Plan, Analyze, Construct, and Execute** framework to break down complex data problems.
+* **Professional Communication:** Communicating technical findings effectively to cross-functional stakeholders.
+* **Data Governance & Ethics:** Examining data privacy, ethics, and security guidelines.
+
+## 📈 Certificates & Credentials
+* [Google Advanced Data Analytics Professional Certificate](https://coursera.org)
